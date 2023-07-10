@@ -21,7 +21,7 @@ body::before{
 }
 .selecao-de-personagens{
     display: flex;
-    align-items: center; /*Alinhou verticalmente, junto do hustify content (aparentemente)*/
+    align-items: center; /*Alinhou verticalmente, junto do justify content (aparentemente)*/
     gap: 30px;
     min-height: calc(100vh - 152px); /*Usado para centralizar tudo verticalmente. o 152 é a altura do cabeçalho*/
     justify-content: center; /*centraliza horizontalmente*/
